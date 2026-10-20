@@ -7,5 +7,37 @@
   "on": true,
   "percent": 50
  },
- "projects": []
+ "projects": [],
+ "prices": [
+  {
+   "name": "موقع ويب",
+   "price": 200,
+   "disc": 1
+  },
+  {
+   "name": "برنامج",
+   "price": 200,
+   "disc": 1
+  },
+  {
+   "name": "نظام صيدليات وسوبر ماركت",
+   "price": 300,
+   "disc": 1
+  },
+  {
+   "name": "نظام لشركتك",
+   "price": 350,
+   "disc": 1
+  },
+  {
+   "name": "لعبة",
+   "price": 150,
+   "disc": 1
+  },
+  {
+   "name": "منصة تعليمية",
+   "price": 1000,
+   "disc": 0
+  }
+ ]
 }
